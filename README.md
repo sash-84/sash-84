@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sakshi Katale</h1>
-<p>I am an emerging frontend developer</p>
+<p>I am an emerging Software Engineer</p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sash-84" alt="sash-84" /></a> </p>
 
